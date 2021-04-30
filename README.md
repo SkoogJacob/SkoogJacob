@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SkoogJacob
 - 👀 I’m interested in Software engineering, maths etc.
 - 🌱 I’m currently learning Java, Software Design, other object oriented languages
-- 💞️ I’m currently a bit swamped with university studies, but I would love to help on something small in Java/Kotlin/C(++) (in that order)
+- 💞️ I’m currently a bit swamped with university studies, but I would love to help on something small in Java/Kotlin/C(++)/more (in that order)
 - 📫 You can reach me at jacob.skoog@protonmail.com
 
 <!---
